@@ -1,4 +1,4 @@
-### Welcome to Combitech!
+# Welcome to Combitech!
 This is our home when it comes to open source.
 
 <!--
